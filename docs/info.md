@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The circuit uses combinational logic to add two 2-bit numbers and a carry-in. The output of the sum is displayed
+using 3 LEDs.
 
 ## How to test
 
-Explain how to use your project
+Add the two 2-bit numbers plus the carry-in bit by hand, then input this into the circuit. If the output matches
+what you calculated, the circuit works as expected.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+DIP Switch, 3 LEDs
